@@ -1,0 +1,79 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.WindowsDesktop">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Images\aware.png" />
+    <None Remove="Images\default.png" />
+    <None Remove="Images\foot_0.png" />
+    <None Remove="Images\foot_1.png" />
+    <None Remove="Images\move0_0.png" />
+    <None Remove="Images\move0_1.png" />
+    <None Remove="Images\move1_0.png" />
+    <None Remove="Images\move1_1.png" />
+    <None Remove="Images\move2_0.png" />
+    <None Remove="Images\move2_1.png" />
+    <None Remove="Images\move3_0.png" />
+    <None Remove="Images\move3_1.png" />
+    <None Remove="Images\move4_0.png" />
+    <None Remove="Images\move4_1.png" />
+    <None Remove="Images\move5_0.png" />
+    <None Remove="Images\move5_1.png" />
+    <None Remove="Images\move6_0.png" />
+    <None Remove="Images\move6_1.png" />
+    <None Remove="Images\move7_0.png" />
+    <None Remove="Images\move7_1.png" />
+    <None Remove="Images\question.png" />
+    <None Remove="Images\scratch0_0.png" />
+    <None Remove="Images\scratch0_1.png" />
+    <None Remove="Images\scratch1_0.png" />
+    <None Remove="Images\scratch1_1.png" />
+    <None Remove="Images\scratch2_0.png" />
+    <None Remove="Images\scratch2_1.png" />
+    <None Remove="Images\scratch3_0.png" />
+    <None Remove="Images\scratch3_1.png" />
+    <None Remove="Images\sleep_0.png" />
+    <None Remove="Images\sleep_1.png" />
+    <None Remove="Images\yawn.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Include="Images\aware.png" />
+    <EmbeddedResource Include="Images\default.png" />
+    <EmbeddedResource Include="Images\foot_0.png" />
+    <EmbeddedResource Include="Images\foot_1.png" />
+    <EmbeddedResource Include="Images\move0_0.png" />
+    <EmbeddedResource Include="Images\move0_1.png" />
+    <EmbeddedResource Include="Images\move1_0.png" />
+    <EmbeddedResource Include="Images\move1_1.png" />
+    <EmbeddedResource Include="Images\move2_0.png" />
+    <EmbeddedResource Include="Images\move2_1.png" />
+    <EmbeddedResource Include="Images\move3_0.png" />
+    <EmbeddedResource Include="Images\move3_1.png" />
+    <EmbeddedResource Include="Images\move4_0.png" />
+    <EmbeddedResource Include="Images\move4_1.png" />
+    <EmbeddedResource Include="Images\move5_0.png" />
+    <EmbeddedResource Include="Images\move5_1.png" />
+    <EmbeddedResource Include="Images\move6_0.png" />
+    <EmbeddedResource Include="Images\move6_1.png" />
+    <EmbeddedResource Include="Images\move7_0.png" />
+    <EmbeddedResource Include="Images\move7_1.png" />
+    <EmbeddedResource Include="Images\question.png" />
+    <EmbeddedResource Include="Images\scratch0_0.png" />
+    <EmbeddedResource Include="Images\scratch0_1.png" />
+    <EmbeddedResource Include="Images\scratch1_0.png" />
+    <EmbeddedResource Include="Images\scratch1_1.png" />
+    <EmbeddedResource Include="Images\scratch2_0.png" />
+    <EmbeddedResource Include="Images\scratch2_1.png" />
+    <EmbeddedResource Include="Images\scratch3_0.png" />
+    <EmbeddedResource Include="Images\scratch3_1.png" />
+    <EmbeddedResource Include="Images\sleep_0.png" />
+    <EmbeddedResource Include="Images\sleep_1.png" />
+    <EmbeddedResource Include="Images\yawn.png" />
+  </ItemGroup>
+
+</Project>
